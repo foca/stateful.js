@@ -1,5 +1,5 @@
 {
-    "name": "stateful",
+    "name": "stateful.js",
     "description": "Simple implemetation of the State pattern for JavaScript",
     "version": "0.1.0",
     "author": "Nicolás Sanguinetti <hi@nicolassanguinetti.info>",
