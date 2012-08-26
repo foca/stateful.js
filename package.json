@@ -1,0 +1,22 @@
+{
+    "name": "stateful",
+    "description": "Simple implemetation of the State pattern for JavaScript",
+    "version": "0.1.0",
+    "author": "Nicolás Sanguinetti <hi@nicolassanguinetti.info>",
+    "keywords": ["state", "state machine", "fsm", "design patterns"],
+    "main": "./src/stateful.js",
+    "directories": {
+        "lib":  "./src",
+        "test": "./test"
+    },
+    "repositories": {
+        "type": "git",
+        "url":  "http://github.com/foca/stateful.js"
+    },
+    "devDependencies": {
+        "gerbil": "*"
+    },
+    "scripts": {
+        "test": "node test/stateful_test.js"
+    }
+}
